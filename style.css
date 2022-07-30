@@ -1,0 +1,107 @@
+body{
+  margin: 0px;
+  background-image:url("https://www.donnamoderna.com/content/uploads/2020/07/shutterstock_1515169811-830x625.jpg");
+  background-size: cover;
+  padding-top: 8%;
+  padding-left: 10%;
+  padding-right: 10%;
+
+
+  }
+
+.tutto
+{background-color: rgba(0, 0, 0, 0.5);
+ padding-left:12%;
+ padding-right: 12%;
+}
+
+
+header{
+  text-align: center;
+
+
+}
+
+
+header > h1{
+  color: rgb(100,149,237);
+  font-size: 60px;
+  display: inline-block;
+}
+
+
+header span{
+  width: 70px;
+  height:70px;
+  font-size: 70px;
+  display: inline-block;
+}
+
+
+.sottotitolo{
+  text-align: center;
+  color:  rgb(100,149,237);
+  font-size: 30px;
+
+}
+
+
+
+
+.bottoni{
+  text-align: center;
+  background-color: rgb(100,149,237);
+  height: 30px;
+  padding-top: 6px;
+  width: 35%;
+  padding-left: 30%;
+  padding-right: 30%;
+
+}
+
+ .centro h2{
+display: inline-block;
+color:white;
+
+}
+
+.centro input{
+  display: inline-block;
+
+}
+
+.centro span{
+  width: 30px;
+  height:30px;
+  font-size: 30px;
+  color: white;
+  display: inline-block;
+}
+
+.centro h4{
+  color: rgba(255, 255, 255, 0.5);
+  display: inline-block;
+}
+
+.centro h3{
+  color:rgba(0, 0, 0, 0);
+  background-color: rgb(255, 117, 20);
+  background-size: 100px 5px;
+  width:30%;
+}
+
+
+.centro2 h3{
+  color:rgba(0, 0, 0, 0);
+  background-color: rgb(0, 255, 0);
+  background-size: 100px 5px;
+  width:80%;
+}
+
+
+.centro3 h3{
+  color:rgba(0, 0, 0, 0);
+  background-color: rgb(250, 0, 0);
+  background-size: 100px 5px;
+  width:20%;
+}
